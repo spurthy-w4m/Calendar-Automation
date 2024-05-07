@@ -1,6 +1,6 @@
 # Calendar Automation
 
-# Google Calendar credentials
+## Google Calendar credentials
 
 create your google calendar credentials following this link:
 https://developers.google.com/calendar/api/quickstart/python

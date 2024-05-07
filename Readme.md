@@ -2,17 +2,20 @@
 
 ## Google Calendar credentials
 
-create your google calendar credentials following this link:
+Create your google calendar credentials following this link:
 https://developers.google.com/calendar/api/quickstart/python
-save it in your backend folder
+
+Save it in your backend folder
 
 ## Backend
 
 ### Running the Backend
 
-1. Navigate to the backend folder:
-   Run the backend script:
-   python main.py
+Navigate to the backend folder:
+
+Run the backend script:
+
+python main.py
 
 ## Frontend
 

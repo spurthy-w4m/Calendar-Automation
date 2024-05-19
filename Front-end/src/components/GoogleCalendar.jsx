@@ -86,7 +86,7 @@ const MyCalendar = () => {
         value={selectedDateTime}
         onChange={handleDateTimeChange}
         onConfirm={handleScheduled} // Pass onConfirm prop
-        confirmText="Schedule"
+        confirmText="Schedule?"
         loadingText="Scheduling.."
         doneText="Your event has been scheduled!"
         disabled={loading}
